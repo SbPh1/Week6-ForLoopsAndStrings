@@ -10,10 +10,10 @@ namespace CompareStrings
             //programm võrdleb sisestatud andmeid omavahel
             //programm kuvab konsoolis, kumb on pikem - eesnimi või perekonnanimi
 
-            Console.WriteLine("Sisestad oma eesnimi:");
+            Console.WriteLine("Sisesta oma eesnimi:");
             string firstName = Console.ReadLine();
 
-            Console.WriteLine("Sisestad oma perekonnanimi:");
+            Console.WriteLine("Sisesta oma perekonnanimi:");
             string familyName = Console.ReadLine();
 
 
